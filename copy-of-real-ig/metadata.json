@@ -1,0 +1,6 @@
+{
+  "name": "Copy of REAL IG",
+  "description": "A visually faithful clone of the Instagram login page, built with React and Tailwind CSS. It features a responsive design, dynamic form elements, and a mock phone UI with cycling images.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
